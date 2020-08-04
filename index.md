@@ -5,7 +5,7 @@ Wake Parks app beautifully displays over 280 parks in Wake County using beautifu
 
 
 ### Privacy
-Wake Parks does not collect, store, or sell any private information of the user. The app itself uses the location to fetch weather, UV, and direction information. No information is collected or collected by the app creator. 
+Wake Parks does not collect, store, or sell any private information of the user. The app itself uses the location to fetch weather, UV, and direction information. No information is collected or stored by the app or the company. 
 
 
 
