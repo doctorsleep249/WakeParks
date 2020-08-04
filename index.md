@@ -11,5 +11,7 @@ Wake Parks app beautifully displays over 280 parks in Wake County using beautifu
 
 To contact us regarding Wake Parks App please email us at doctorsleep000@gmail.com
 
-made using Jekyll Theme using GitHub
+
+### Privacy
+_Wake Parks does not collect, store, or sell any private information of the user. The app itself uses the location to fetch weather, UV, and direction information. No information is collected or collected by the app creator. 
 
