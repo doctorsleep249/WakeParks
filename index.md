@@ -9,7 +9,7 @@ Wake Parks app beautifully displays over 280 parks in Wake County using beautifu
 
 ### Support or Contact
 
-To contact us regarding Wake Parks App please email us at doctorsleep000@gmail.com
+To contact us regarding Wake Parks App please email us at [doctorsleep000@gmail.com](doctorsleep000@gmail.com)
 
 
 ### Privacy
